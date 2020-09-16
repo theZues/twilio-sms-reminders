@@ -24,7 +24,7 @@ def create_reminder():
         'id': uuid.uuid4().hex,
         'phone_number': req_data['phone_number'],
         'message': req_data['message'],
-        'interval': 'monthly',
+        'interval': 'weekly',
         'due_date': req_data['due_date']
     }
 
