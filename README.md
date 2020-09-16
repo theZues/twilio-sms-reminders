@@ -9,22 +9,22 @@
 
 ## Technologies Used
 
-  •	Python
-  •	Flask
-  •	Twilio API
-  •	PythonAnywhere 
+  *	Python
+  *	Flask
+  *	Twilio API
+  *	PythonAnywhere
   
 
 ## Problems/Things to work on
 
-  • The link is only going to show JSON right now.  I will work on incorporating a front-end framework soon.  It will be here soon. [theZues.pythonanywhere.com](https://theZues.pythonanywhere.com)
-  • I'm in the middle of learning Python, but I never got lost in what the code meant.  Thanks GA!
+  * The link is only going to show JSON right now.  I will work on incorporating a front-end framework soon.  It will be here soon. [theZues.pythonanywhere.com](https://theZues.pythonanywhere.com)
+  * I'm in the middle of learning Python, but I never got lost in what the code meant.  Thanks GA!
 
-  •	There's no database, but I will probably use PostgreSQL and/or MongoDB.
+  *	There's no database, but I will probably use PostgreSQL and/or MongoDB.
 
   
 ## Acknowledgments
 
-  •	The article [Build an SMS Reminder Service using Python and Twilio](https://www.twilio.com/blog/build-sms-reminder-service-python-twilio) by Dotun Jolaoso
+  *	The article [Build an SMS Reminder Service using Python and Twilio](https://www.twilio.com/blog/build-sms-reminder-service-python-twilio) by Dotun Jolaoso
 
   
