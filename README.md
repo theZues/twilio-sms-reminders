@@ -17,7 +17,7 @@
 
 ## Problems/Things to work on
 
-  * The link is only going to show JSON right now.  I will work on incorporating a front-end framework soon.  It will be here soon. [theZues.pythonanywhere.com](https://theZues.pythonanywhere.com)
+  * I will work on incorporating a front-end framework soon.  
   * I'm in the middle of learning Python, but I never got lost in what the code meant.  Thanks GA!
 
   *	There's no database, but I will probably use PostgreSQL and/or MongoDB.
